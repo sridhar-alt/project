@@ -1,0 +1,9 @@
+D:\c#\AppADO.net\AppADO.net\obj\Debug\AppADO.net.csprojAssemblyReference.cache
+D:\c#\AppADO.net\AppADO.net\bin\Debug\AppADO.net.exe.config
+D:\c#\AppADO.net\AppADO.net\bin\Debug\AppADO.net.exe
+D:\c#\AppADO.net\AppADO.net\bin\Debug\AppADO.net.pdb
+D:\c#\AppADO.net\AppADO.net\bin\Debug\NLog.dll
+D:\c#\AppADO.net\AppADO.net\bin\Debug\NLog.xml
+D:\c#\AppADO.net\AppADO.net\obj\Debug\AppADO.net.csproj.CopyComplete
+D:\c#\AppADO.net\AppADO.net\obj\Debug\AppADO.net.exe
+D:\c#\AppADO.net\AppADO.net\obj\Debug\AppADO.net.pdb
